@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lajfislajv
 - 👀 I’m interested in learning new things & reading non-fiction books
-- 🌱 I’m currently learning Javascript & Automated Tests 
+- 🌱 I’m currently learning Javascript & Automation
 - 📫 How to reach me 
 
 <!---
