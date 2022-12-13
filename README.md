@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lajfislajv
 - 👀 I’m interested in learning new things & reading non-fiction books
-- 🌱 I’m currently learning Javascript & Automation
-- 📫 How to reach me 
+- 🌱 I’m currently learning Python & Automation
+- 📫 How to reach me ************* <=
 
 <!---
 lajfislajv/lajfislajv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
